@@ -1,6 +1,6 @@
-# Programação Aplicada ao Direito - Lógica de Programação
+# PADir - Lógica de Programação
 
-Bem vindo(a) ao repositório do curso!
+Bem vindo(a) ao repositório do curso de Programação Aplicada ao Direito: Lógica de Programação!
 
 
 ## Automatizador de Documentos - Docx
