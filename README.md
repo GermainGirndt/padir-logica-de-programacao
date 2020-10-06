@@ -1,4 +1,4 @@
-# Programação Aplicada ao Direito
+# Programação Aplicada ao Direito - Lógica de Programação
 
 Bem vindo(a) ao repositório do curso!
 
