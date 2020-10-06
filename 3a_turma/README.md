@@ -1,4 +1,4 @@
-# Repositório da 3ª Turma
+# 3ª Turma
 
 ## Automatizador de Documentos - Docx
 
